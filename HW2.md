@@ -20,8 +20,7 @@ gantt
 ---
 ## PERT/CPM圖
 
-![1](https://github.com/Averyaa/README.md/assets/120900849/d24f6971-8cb6-48a0-9230-387e0355c004)
-
+![PERT](1)
 
 ---
 ## 關鍵路徑
